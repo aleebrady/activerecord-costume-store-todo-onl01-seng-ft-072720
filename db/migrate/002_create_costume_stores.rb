@@ -1,1 +1,1 @@
-class CreateCostumeStores
+class CreateCostumeStores < ActiveRecord::Migrate 
